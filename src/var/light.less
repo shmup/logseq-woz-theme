@@ -1,8 +1,13 @@
+@import 'color.less';
+
 .white-theme, html[data-theme="light"] {
   --ls-primary-background-color: lighten(@yellow-50, 3.3%);
   --ls-tertiary-background-color: #f2f2f2;
   // --ls-quaternary-background-color: fade(@green-500, 20%);
   --ls-quaternary-background-color: #e2e6e2;
+
+  --ls-bullet-closed-background: @red-300;
+  --ls-block-bullet-border-color: @red-300;
 
   // guideline
   --ls-guideline-hover-color: @gray-400;

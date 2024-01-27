@@ -1,17 +1,17 @@
 {
-  "name": "logseq-woz-theme",
+  "name": "logseq-shmup-theme",
   "author": "Haydenull",
   "version": "1.10.6",
   "description": "A lightly theme.",
   "logseq": {
     "themes": [
       {
-        "name": "Woz Theme",
+        "name": "shmup theme",
         "url": "./dist/custom.css",
         "description": "logseq theme"
       }
     ],
-    "id": "hayden-woz-theme-new",
+    "id": "hayden-shmup-theme-new",
     "icon": "./logo.png"
   },
   "scripts": {
